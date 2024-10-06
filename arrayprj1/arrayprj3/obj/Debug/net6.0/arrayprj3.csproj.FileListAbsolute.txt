@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\arrays\arrayprj3\bin\Debug\net6.0\arrayprj3.exe
+C:\Users\user\Desktop\arrays\arrayprj3\bin\Debug\net6.0\arrayprj3.deps.json
+C:\Users\user\Desktop\arrays\arrayprj3\bin\Debug\net6.0\arrayprj3.runtimeconfig.json
+C:\Users\user\Desktop\arrays\arrayprj3\bin\Debug\net6.0\arrayprj3.dll
+C:\Users\user\Desktop\arrays\arrayprj3\bin\Debug\net6.0\arrayprj3.pdb
+C:\Users\user\Desktop\arrays\arrayprj3\obj\Debug\net6.0\arrayprj3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\arrays\arrayprj3\obj\Debug\net6.0\arrayprj3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\arrays\arrayprj3\obj\Debug\net6.0\arrayprj3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\arrays\arrayprj3\obj\Debug\net6.0\arrayprj3.AssemblyInfo.cs
+C:\Users\user\Desktop\arrays\arrayprj3\obj\Debug\net6.0\arrayprj3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\arrays\arrayprj3\obj\Debug\net6.0\arrayprj3.dll
+C:\Users\user\Desktop\arrays\arrayprj3\obj\Debug\net6.0\refint\arrayprj3.dll
+C:\Users\user\Desktop\arrays\arrayprj3\obj\Debug\net6.0\arrayprj3.pdb
+C:\Users\user\Desktop\arrays\arrayprj3\obj\Debug\net6.0\arrayprj3.genruntimeconfig.cache
+C:\Users\user\Desktop\arrays\arrayprj3\obj\Debug\net6.0\ref\arrayprj3.dll

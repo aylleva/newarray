@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\arrays\optionaltask1\optionaltask1\bin\Debug\net6.0\optionaltask1.exe
+C:\Users\user\Desktop\arrays\optionaltask1\optionaltask1\bin\Debug\net6.0\optionaltask1.deps.json
+C:\Users\user\Desktop\arrays\optionaltask1\optionaltask1\bin\Debug\net6.0\optionaltask1.runtimeconfig.json
+C:\Users\user\Desktop\arrays\optionaltask1\optionaltask1\bin\Debug\net6.0\optionaltask1.dll
+C:\Users\user\Desktop\arrays\optionaltask1\optionaltask1\bin\Debug\net6.0\optionaltask1.pdb
+C:\Users\user\Desktop\arrays\optionaltask1\optionaltask1\obj\Debug\net6.0\optionaltask1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\arrays\optionaltask1\optionaltask1\obj\Debug\net6.0\optionaltask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\arrays\optionaltask1\optionaltask1\obj\Debug\net6.0\optionaltask1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\arrays\optionaltask1\optionaltask1\obj\Debug\net6.0\optionaltask1.AssemblyInfo.cs
+C:\Users\user\Desktop\arrays\optionaltask1\optionaltask1\obj\Debug\net6.0\optionaltask1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\arrays\optionaltask1\optionaltask1\obj\Debug\net6.0\optionaltask1.dll
+C:\Users\user\Desktop\arrays\optionaltask1\optionaltask1\obj\Debug\net6.0\refint\optionaltask1.dll
+C:\Users\user\Desktop\arrays\optionaltask1\optionaltask1\obj\Debug\net6.0\optionaltask1.pdb
+C:\Users\user\Desktop\arrays\optionaltask1\optionaltask1\obj\Debug\net6.0\optionaltask1.genruntimeconfig.cache
+C:\Users\user\Desktop\arrays\optionaltask1\optionaltask1\obj\Debug\net6.0\ref\optionaltask1.dll

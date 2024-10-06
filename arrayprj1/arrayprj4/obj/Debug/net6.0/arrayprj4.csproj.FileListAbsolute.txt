@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\arrays\arrayprj1\arrayprj4\bin\Debug\net6.0\arrayprj4.exe
+C:\Users\user\Desktop\arrays\arrayprj1\arrayprj4\bin\Debug\net6.0\arrayprj4.deps.json
+C:\Users\user\Desktop\arrays\arrayprj1\arrayprj4\bin\Debug\net6.0\arrayprj4.runtimeconfig.json
+C:\Users\user\Desktop\arrays\arrayprj1\arrayprj4\bin\Debug\net6.0\arrayprj4.dll
+C:\Users\user\Desktop\arrays\arrayprj1\arrayprj4\bin\Debug\net6.0\arrayprj4.pdb
+C:\Users\user\Desktop\arrays\arrayprj1\arrayprj4\obj\Debug\net6.0\arrayprj4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\arrays\arrayprj1\arrayprj4\obj\Debug\net6.0\arrayprj4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\arrays\arrayprj1\arrayprj4\obj\Debug\net6.0\arrayprj4.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\arrays\arrayprj1\arrayprj4\obj\Debug\net6.0\arrayprj4.AssemblyInfo.cs
+C:\Users\user\Desktop\arrays\arrayprj1\arrayprj4\obj\Debug\net6.0\arrayprj4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\arrays\arrayprj1\arrayprj4\obj\Debug\net6.0\arrayprj4.dll
+C:\Users\user\Desktop\arrays\arrayprj1\arrayprj4\obj\Debug\net6.0\refint\arrayprj4.dll
+C:\Users\user\Desktop\arrays\arrayprj1\arrayprj4\obj\Debug\net6.0\arrayprj4.pdb
+C:\Users\user\Desktop\arrays\arrayprj1\arrayprj4\obj\Debug\net6.0\arrayprj4.genruntimeconfig.cache
+C:\Users\user\Desktop\arrays\arrayprj1\arrayprj4\obj\Debug\net6.0\ref\arrayprj4.dll
